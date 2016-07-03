@@ -14,7 +14,7 @@ There are five common religions to the region: Desna, Erastil, Gorum, Pharasma, 
 - [Pharasma](http://pathfinderwiki.com/wiki/Pharasma) (N) is the Lady of Graves, the one who weighs and measures all in the afterlife at the top of her grand spire in the Boneyard. Pharasma is also the goddess of birth and prophecy: from the moment a creature is born, she sees what its ultimate fate will be, but reserves final judgement until that soul finally stands before her. As the goddess of death and rebirth, she abhors the undead and considers them a perversion. Her followers include midwives, morticians, and those against undeath.
 - [Torag](http://pathfinderwiki.com/wiki/Torag) (LG) is a stoic and serious god who values honor, planning, and well-made steel. He is an often distant deity, lending magical power to his clerics, but leaving his followers to make their own way through life, knowing that this will make them strong and determined. While others do worship this dwarven god, dwarves follow him the most passionately as they see him as their maker and the dwarven ideal.
 
-## Langauges
+## Languages
 Skald is the native language of the Land of the Linnorm Kings. Alko, Common, Dwarf, Giant, Gnome, Orc, Sylvan, and Tien are also spoken in different regions.
 
 ## Races
@@ -23,58 +23,58 @@ Skald is the native language of the Land of the Linnorm Kings. Alko, Common, Dwa
     - Taldor - People of a formerly major empire that has fallen from glory, now rival nobles battle each other with bitter knights and proxy armies for personal power rather than honor. Their language Taldane is the most common language, especially for trade, is actually known as Common.
     - Aldoran - A freedom loving people from a nation that sees itself as the birthplace of freedom. Governed by the principle of Common Rule which grants every citizen a voice. Nation was formerly part of the Taldor empire.
     - Irrisen - The people of Irrisen generally trace their heritage to one of two sources: they are either descended from the Ulfen that were enslaved by Baba Yaga or they are distantly descended from one of Irrisen's previous queens.
-    - Varisian - A primarily nomadic people that favor the open road instead of established permanent settlements. Commonly travel around in caravans. Currently in the country of Varisia but commonly found in Ustalav too. Appear to be frivilious, but have a fierce loyalty to family and friends.
-    - Tian - Best described as of asian descent, originally from a continent (Tian Xia ie Dragon Empires) on the other side of the world from the Inner Sea. Fastest route to the Land of the Linnorm Kings is over the top of the world over the Teeth of the World. Members of this culture are present along the Path of Aganhei in small villages and found in greater numbers in the Jade District of Kalsgard, the capital of the Thanelands.
+    - Varisian - A primarily nomadic people that favor the open road instead of established permanent settlements. Commonly travel around in caravans. Currently in the country of Varisia but commonly found in Ustalav too. Appear to be frivolous, but have a fierce loyalty to family and friends.
+    - Tian - Best described as of asian descent, originally from a continent (Tian Xia aka Dragon Empires) on the other side of the world from the Inner Sea. Fastest route to the Land of the Linnorm Kings is over the top of the world over the Teeth of the World. Members of this culture are present along the Path of Aganhei in small villages and found in greater numbers in the Jade District of Kalsgard, the capital of the Thanelands.
 - **Dwarves** - Common on the eastern side of the realm and in the mines of Kopperberget, dwarves are also found in the Ironbound Isles where their trade skills are very profitable and warring with hated giants throughout Southmoor. Dwarves have been found in the region since before the Winter War that loss the eastern reaches of the Land of the Linnorm Kings to the Irrisen.
 - **Elves** - Not common in the Land of the Linnorm Kings. Some live north in the Teeth of the World, but little is known about them that they are usually thought to be a myth instead of fact.
-- **Gnomes** - Originally of the First World, but left for some unknown reason. This loss of connection leads to a horrible disease if a gnome is not leading an exciting enough life called the Bleaching. Bleaching is usually fatal, but in rare cases, a gnome survives and is a dull reflection of their past selves. Due to the connection between the First World and Golarian (the planet) is strongest in the Land of the Linnorm Kings, it is not uncommon for gnomes to live their lives in this realm as they are invogorated by the closeness of the First World. Gnomes living in the region, especially around Grungir Forest and the town of Delmon's Glen, commonly negotiate the misgivings between the fey and humans.
+- **Gnomes** - Originally of the First World, but left for some unknown reason. This loss of connection leads to a horrible disease if a gnome is not leading an exciting enough life called the Bleaching. Bleaching is usually fatal, but in rare cases, a gnome survives and is a dull reflection of their past selves. Due to the connection between the First World and Golarian (the planet) is strongest in the Land of the Linnorm Kings, it is not uncommon for gnomes to live their lives in this realm as they are invigorated by the closeness of the First World. Gnomes living in the region, especially around Grungir Forest and the town of Delmon's Glen, commonly negotiate the misgivings between the fey and humans.
 
 ## The Regions and Their Holds
 #### Broken Bay
 - Description: Last of the True Ulfen Raiders
 - King: King Ingimundr the Unruly
-- Hold: Bildt (6730)
-- Notable Settlements: Jkjoldmur (1500)
+- Hold: Bildt (6,730)
+- Notable Settlements: Skjoldmur (1,500)
 - Resources: Ambergris, mercenaries, ships, ship supplies, slaves, weapons, whale oil
 
 #### Icemark
 - Description: Lands of the Varki Nomad Clans
 - King: None, a council of elderly leaders
-- Hold: Seer's Home
+- Hold: Seer's Home (200)
 - Notable Settlements: None
 - Resources: Caribou, fish, furs, leather, scrimshaw
 
 #### Thanelands
 - Description: Heartland of the Linnorm Kingdoms
-- King: 
-- Hold: Kalsgard led by Sveinn Blood-Eagle
-- Notable Settlements: 
+- King: Sveinn Blood-Eagle
+- Hold: Kalsgard (72,080)
+- Notable Settlements: Asleifar (4,530), Iceferry (890), Turvik (5,200), Ullerskad (7,830)
 - Resources: Ambergris, copper, furs, leather goods, mercenaries, rope, seafood, ships, ship supplies, slaves, weapons, whale oil
 
 #### Hagreach
 - Description: War-Weary Borderland
-- King: 
-- Hold: Trollheim led by Freyr Darkwine
-- Notable Settlements: 
+- King: Freyr Darkwine
+- Hold: Trollheim (12,120)
+- Notable Settlements: Eldentre (3,460), Hellirinn (2,300)
 - Resources: Furs, gemstones, iron, leather goods, quartz, silver, stone, venison
 
 #### Grungir Forest
 - Description: Dark Forest of Ancient Secrets
-- King: 
+- King: None
 - Hold: None
-- Notable Settlements: 
+- Notable Settlements: Delmon's Glen (740), Losthome (4,320)
 - Resources: Furs, timber
 
 #### Southmoor
 - Description: Fractious Southern Fringes
-- King: 
-- Hold: Jol led by Opir Eightfingers
-- Notable Settlements: 
+- King: Opir Eightfingers
+- Hold: Jol (9,500)
+- Notable Settlements: Solskinn (980), Tomgruv (1,400)
 - Resources: Copper, furs, leather goods, lumber, mercenaries
 
 #### Ironbound Islands
 - Description: Isles of Future Opportunity and Ancient Danger
 - King: White Estrid
-- Hold: Halgrim
-- Notable Settlements: 
+- Hold: Halgrim (26,340)
+- Notable Settlements: Averaka (1,780), Fremburdd (1,230)
 - Resources: Ambergris, iron, mercenaries, rope, ships, slaves, weapons, whale oil

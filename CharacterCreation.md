@@ -27,7 +27,9 @@ Try out [Character Sheets by Dyslexic Studeos](http://charactersheets.minotaur.c
 **Favored Class and Favored Class Bonus:** Everyone gets a favored class (half-elves get two). This is set at character creation. When gaining a level in a favored class (including first level), the character gains an additional hitpoint or skill point. Each race has an alternate bonus based on the class.
 
 ## 4) Races
-All Core races are valid, of course. Humans, half-orcs, half-elves, gnomes, and dwarves are fairly common throughout the Land of the Linnorm Kings. There are no native elves, other than those that live among the Teeth of the World.
+All Core races are valid, of course. Humans, gnomes, and dwarves are common throughout the Land of the Linnorm Kings. There are no native elves to the Linnorm Kingdoms. Half-orcs and half-elves are uncommon, except for the half-orc settlement of Averaka in the Ironbound Isles. Halflings are even less common than the half-races, at least outside of the major cities and settlements.
+
+There are relationships between the races, some good and others not so much. Dwarves have hated orcs since their time of reaching for the sky, so half-orcs and dwarves only barely get along. Dwarves really hate giants, be it a historical incident between their peoples or just dwarves having a strong short-complex. Half-orcs and half-elves don't fit into their parents' cultures and tend to be seen as outsiders because of this. Gnomes are known to be quite eccentric, especially with their vibrant colored hair and insatiable need for new experiences that often gets them into trouble. Halflings are known as troublemakers and trickers by other races who just don't appreciate their sense of humor and opportunistic nature. The shorter-lived races see elves are too slow to move and act while elves see the shorter-lived as too capricious and volatile.
 
 Inherently good or evil races may have difficulty being accepted culturally. Races of the Underdark, such as the Daergar or Drow, are especially unliked and will have difficulty with the powers that be in the kingdom. If you want to play a race that will have to deal with this strife, talk with me prior to make sure it won't cause conflicts for the table, story, or setting.
 
@@ -50,7 +52,7 @@ Everyone gets two charater [traits](http://www.d20pfsrd.com/traits). These other
 ## 8) Skills
 The number of ranks in a skill is limited by your total class level. Only one rank in any skill at first level.
 
-Everyone starts with a rank in a single Profession, this is an extra skill rank earned during character creation for free. This represents the profession that your character has that learns them a honest living.
+Everyone starts with a rank in a single [Profession](http://www.d20pfsrd.com/skills/profession), this is an extra skill rank earned during character creation for free. This represents the profession that your character has that learns them a honest living and might provide an insight bonus when doing other actions, such as a miner might know something about a caves structure and signs it has been worked. Example professions: architect, baker, barrister, brewer, butcher, clerk, cook, courtesan, driver, engineer, farmer, fisherman, gambler, gardener, herbalist, innkeeper, librarian, merchant, midwife, miller, miner, porter, sailor, scribe, shepherd, stable master, soldier, tanner, trapper, and woodcutter.
 
 Don't forget class skills that have at least one rank in it have an extra bonus +3 (this is shown as a separate column on the Dyslexic Studeos character sheet).
 
@@ -62,13 +64,13 @@ Maximum HP at first level. So a wizard with a d6 gets 6 + CON modifier.
 Minimum lower half on HD roll every level after. Example: Roll 1d6, minimum result 3.
 
 ## 11) Starting Gold and Equipment
-Set average for starting class. Example: Sorcerer gets 70gp, Cleric gets 140gp.
+Set average for starting class. Example: Sorcerer gets 70gp, Cleric gets 140gp. This is available in the Corebook as well as on [d20pfsrd, section 8](http://www.d20pfsrd.com/basics-ability-scores/character-creation).
 
 ## 12) Movement, Saves, Initiative, Attack Bonuses, Other Details
 Fill in the respective statistics.
 
 ### Movement
-Medium characters start with 30 ft movement speed and small characters start with 20 ft movement speed. Usually no climb, fly, or swim speeds.
+Medium characters usually move 30 ft while small characters move 20 ft. This is defined by your race (Dwarf is medium yet 20ft movement). Usually no climb, fly, or swim speeds.
 
 ### Saves
 Saves combine your natural ability (ability score modifiers) and your class's training.
@@ -101,3 +103,11 @@ Age, height, and weight are defined by your race. For your race, there is an adu
     - Intelligence (INT) for Wizards, Magus, Witch, Alchemist
     - Wisdom (WIS) for Cleric, Druid, Ranger, Inquisitor
     - Charisma (CHA) for Sorcerer, Bard, Paladin, Oracle, Summoner, Cleric's channels/day
+
+# A Note on Munchkining and Table Etiquette
+**Munchkining:** I have no concerns with creating optimized characters, but if something is ruining the table environment or the fun of others, a change may be necessary. I do not want to wipe out a character build or make them no longer any fun to play, just want to make the environment the most fun it can be. As long as it does not break the game or cause table strife, I will likely be up for it. Thus if something feels broken, it is likely best to not use it.
+
+**Table Etiquette:**
+- Please keep relevant documentation at hand , especially spellcasters. There are decent apps/tools out there for managing spellbooks. Spellcard generators and other tools are available on [d20pfsrd](http://www.d20pfsrd.com/magic/tools) for making physical references. [Pathfinder Spellbook](https://play.google.com/store/apps/details?id=com.ChicaneryGames.PathfindersSpellbook&hl=en) is a decent reference tool on Android, if a bit old (2011).
+- Please pay attention. I want to avoid repeating something if possible as well as keep combat moving. In combat, you can always go On Hold and come back in at a later time.
+- Ask questions about how a mechanic or such works, especially if it is complex, and we will work through how to make it work. Example: How does this spell and can it do this? Flanking? Movement restrictions?
