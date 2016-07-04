@@ -1,5 +1,5 @@
 # Character Creation
-**Valid Resources/Books:** Core Rulebook, Advaned Players Guide, Ultimate Combat, Ultimate Magic. Ultimate Race Guide for enhancing core races. Ask about any other resource.
+**Valid Resources/Books:** Core Rulebook (CRB), Advaned Players Guide (APG), Ultimate Combat (UC), Ultimate Magic (UM), and Ultimate Equipment (UE). Ultimate Race Guide for enhancing core races for alternate racial abilities, racial traits, or racial feats. Ask about any other resource.
 
 ## Steps
 0. Choose a Concept
@@ -22,11 +22,15 @@ Determine what the concept of the character is. Who are you and what do you want
 Try out [Character Sheets by Dyslexic Studeos](http://charactersheets.minotaur.cc/). It does print with multiple pages, but has additional detail and per-class page that spells out when abilities are available. Spellcasters will find this especially useful.
 
 ## 3) Classes
+Fill in your class abilities at a later step, just before adding traits. This will 
+
 **Allowed Classes:** All Core and Base classes are allowed, unless specified. Vigilante and Gunsligher are not allowed. There will be no firearms in this setting.
 
 **Favored Class and Favored Class Bonus:** Everyone gets a favored class (half-elves get two). This is set at character creation. When gaining a level in a favored class (including first level), the character gains an additional hitpoint or skill point. Each race has an alternate bonus based on the class.
 
 ## 4) Races
+Pick a race that makes sense for the concept of the character and meshes well with the class.
+
 All Core races are valid, of course. Humans, gnomes, and dwarves are common throughout the Land of the Linnorm Kings. There are no native elves to the Linnorm Kingdoms. Half-orcs and half-elves are uncommon, except for the half-orc settlement of Averaka in the Ironbound Isles. Halflings are even less common than the half-races, at least outside of the major cities and settlements.
 
 There are relationships between the races, some good and others not so much. Dwarves have hated orcs since their time of reaching for the sky, so half-orcs and dwarves only barely get along. Dwarves really hate giants, be it a historical incident between their peoples or just dwarves having a strong short-complex. Half-orcs and half-elves don't fit into their parents' cultures and tend to be seen as outsiders because of this. Gnomes are known to be quite eccentric, especially with their vibrant colored hair and insatiable need for new experiences that often gets them into trouble. Halflings are known as troublemakers and trickers by other races who just don't appreciate their sense of humor and opportunistic nature. The shorter-lived races see elves are too slow to move and act while elves see the shorter-lived as too capricious and volatile.
@@ -34,10 +38,12 @@ There are relationships between the races, some good and others not so much. Dwa
 Inherently good or evil races may have difficulty being accepted culturally. Races of the Underdark, such as the Daergar or Drow, are especially unliked and will have difficulty with the powers that be in the kingdom. If you want to play a race that will have to deal with this strife, talk with me prior to make sure it won't cause conflicts for the table, story, or setting.
 
 ## 5) Alignment
+Pick an alignment that makes sense for the concept and matches what the class allows.
+
 No requirements. Full spectrum is allowed. Chaotic characters, especially from other regions, will find it easier to handle the people and cultures present in the campaign. Extremely good or extremely evil will not work in this setting. Please do not create a character that is the moral compass for the party. Strife due to alignment differences is fine though and sometimes part of the fun.
 
 ## 6) Ability Scores
-We will be using point buy to give everyone the same amount of power potential. Use this [Point Buy Calculator](http://www.jody-white.com/pathfinder-ability-score-calculator.php), select 25 points (Epic Fantasy). Dumping an ability (lowering it below 10) is fine, within reason. This gives more points to buy up other skills.
+We will be using point buy to give everyone the same amount of power potential. Use this [Point Buy Calculator](http://www.jody-white.com/pathfinder-ability-score-calculator.php), select 25 points (Epic Fantasy). Dumping an ability (lowering it below 10) is fine, within reason, and the lowest possible score is 7. This gives more points to buy up other skills.
 
 - Strength (STR) - Raw strength. Melee to hit and damage. How much can be carried.
 - Dexterity (DEX) - Finesse and agility. Ranged and ranged touch to hit. Affects AC, touch AC, and reflex save.
@@ -45,6 +51,18 @@ We will be using point buy to give everyone the same amount of power potential. 
 - Intelligence (INT) - Raw intelligence. Additional skills and languages. Some spellcasters.
 - Wisdom (WIS) - Mental health and resilience. Some spellcasters. Affects will save.
 - Charisma (CHA) - Force of personality. Some spellcasters.
+
+Stated another way...
+- Strength is being able to crush a tomato.
+- Dexterity is being able to dodge a tomato.
+- Consitituion is being able to eat a bad tomato.
+- Intelligence is knowing a tomato is a fruit.
+- Wisdom is knowing not to put a tomato in a fruit salad.
+- Charisma is being able to sell a tomato based fruit salad.
+
+[A tomato based fruit salad would simply be salsa.](https://www.reddit.com/r/DnD/comments/1s9l2g/dd_stats_explained_with_tomatoes/cdvbace)
+
+## **Now** fill in your class abilities! Spells, skill bonuses, etc.
 
 ## 7) Traits
 Everyone gets two charater [traits](http://www.d20pfsrd.com/traits). These other traits cannot be from the same category (magic, social, etc). Optionally, you can take a single [drawback](http://www.d20pfsrd.com/traits/drawbacks) to get another trait.
@@ -59,12 +77,16 @@ Don't forget class skills that have at least one rank in it have an extra bonus 
 ## 9) Feats
 Everyone starts with an extra bonus feat.
 
+[d20pfsrd Feat Tree](http://www.d20pfsrd.com/feats/feat-tree) is useful for most feat selection.
+
 ## 10) Starting HP
 Maximum HP at first level. So a wizard with a d6 gets 6 + CON modifier.
 Minimum lower half on HD roll every level after. Example: Roll 1d6, minimum result 3.
 
 ## 11) Starting Gold and Equipment
 Set average for starting class. Example: Sorcerer gets 70gp, Cleric gets 140gp. This is available in the Corebook as well as on [d20pfsrd, section 8](http://www.d20pfsrd.com/basics-ability-scores/character-creation).
+
+Much of the equipment on d20pfsrd will be listed as under Ultimate Equipment or UE, this is all valid equipment.
 
 ## 12) Movement, Saves, Initiative, Attack Bonuses, Other Details
 Fill in the respective statistics.
