@@ -1,5 +1,5 @@
 # Character Creation
-**Valid Resources/Books:** Core Rulebook (CRB), Advaned Players Guide (APG), Ultimate Combat (UC), Ultimate Magic (UM), and Ultimate Equipment (UE). Ultimate Race Guide for enhancing core races for alternate racial abilities, racial traits, or racial feats. Ask about any other resource.
+**Valid Resources/Books:** Core Rulebook (CRB), Advaned Players Guide (APG), Ultimate Combat (UC), Ultimate Magic (UM), and Ultimate Equipment (UE). Ultimate Race Guide for enhancing core races for alternate racial abilities, racial traits, or racial feats. Pathfinder Unchained (UC) material is only valid if you are running an Unchained class. Ask about any other resource.
 
 ## Steps
 0. Choose a Concept
@@ -22,9 +22,12 @@ Determine what the concept of the character is. Who are you and what do you want
 Try out [Character Sheets by Dyslexic Studeos](http://charactersheets.minotaur.cc/). It does print with multiple pages, but has additional detail and per-class page that spells out when abilities are available. Spellcasters will find this especially useful.
 
 ## 3) Classes
-Fill in your class abilities at a later step, just before adding traits. This will 
+Fill in your class abilities at a later step, just before adding traits. This allows for considering class/race combos with less erasing.
 
-**Allowed Classes:** All Core and Base classes are allowed, unless specified. Vigilante and Gunsligher are not allowed. There will be no firearms in this setting.
+**Allowed Classes:** All Core and Base classes are allowed, unless specified.
+- Summoner must be the Unchained Summoner. This is a reduced power version of the original summoner and also simplier to play.
+- Unchained Rogue, Unchained Monk, and Unchained Barbarian are also allowed. These classes are a rebuild of the core classes meant to balance them and allow for easier play, plus it gives Rogues power again.
+- Vigilante and Gunsligher are not allowed. There will be no firearms in this setting.
 
 **Favored Class and Favored Class Bonus:** Everyone gets a favored class (half-elves get two). This is set at character creation. When gaining a level in a favored class (including first level), the character gains an additional hitpoint or skill point. Each race has an alternate bonus based on the class.
 
@@ -75,7 +78,9 @@ Everyone starts with a rank in a single [Profession](http://www.d20pfsrd.com/ski
 Don't forget class skills that have at least one rank in it have an extra bonus +3 (this is shown as a separate column on the Dyslexic Studeos character sheet).
 
 ## 9) Feats
-Everyone starts with an extra bonus feat.
+As usual, everyone starts with a feat at first level.
+
+Everyone starts with an extra bonus **combat** feat, all prereqs must be met. Combat feats are geared towards combat and have the Combat keyword associated to it. There is a complete listing of [combat feats on d20pfsrd](http://www.d20pfsrd.com/feats/combat-feats). I would recommend looking into the standard feat trains such as Combat Expertise, Power Attack, and Point Blank Shot.
 
 [d20pfsrd Feat Tree](http://www.d20pfsrd.com/feats/feat-tree) is useful for most feat selection.
 
@@ -125,6 +130,9 @@ Age, height, and weight are defined by your race. For your race, there is an adu
     - Intelligence (INT) for Wizards, Magus, Witch, Alchemist
     - Wisdom (WIS) for Cleric, Druid, Ranger, Inquisitor
     - Charisma (CHA) for Sorcerer, Bard, Paladin, Oracle, Summoner, Cleric's channels/day
+- Damage increasing feats:
+	- Power Attack for melee, Cleave to hit another target with same attack. 
+	- Point Blank Shot for <=30ft with Deadly Aim for the same effect as Power Attack. Rapid Shot and Many Shot for more targets with same attack.
 
 # A Note on Munchkining and Table Etiquette
 **Munchkining:** I have no concerns with creating optimized characters, but if something is ruining the table environment or the fun of others, a change may be necessary. I do not want to wipe out a character build or make them no longer any fun to play, just want to make the environment the most fun it can be. As long as it does not break the game or cause table strife, I will likely be up for it. Thus if something feels broken, it is likely best to not use it.
