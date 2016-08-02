@@ -18,6 +18,8 @@
 ## 1) Choose A Concept
 Determine what the concept of the character is. Who are you and what do you want to do?
 
+The goal at the end of character creation is to have a 25 word description of the character that is the essence of who they are. Example: I am a Face rogue who bluffs his way into others good graces before betraying them when they least expect it ...and I have a serious sweet tooth.
+
 ## 2) Character Sheets
 Try out [Character Sheets by Dyslexic Studeos](http://charactersheets.minotaur.cc/). It does print with multiple pages, but has additional detail and per-class page that spells out when abilities are available. Spellcasters will find this especially useful.
 
@@ -80,9 +82,19 @@ Don't forget class skills that have at least one rank in it have an extra bonus 
 ## 9) Feats
 As usual, everyone starts with a feat at first level.
 
-Everyone starts with an extra bonus **combat** feat, all prereqs must be met. Combat feats are geared towards combat and have the Combat keyword associated to it. There is a complete listing of [combat feats on d20pfsrd](http://www.d20pfsrd.com/feats/combat-feats). I would recommend looking into the standard feat trains such as Combat Expertise, Power Attack, and Point Blank Shot.
+The [d20pfsrd Feat Tree](http://www.d20pfsrd.com/feats/feat-tree) is useful for most feat selection.
 
-[d20pfsrd Feat Tree](http://www.d20pfsrd.com/feats/feat-tree) is useful for most feat selection.
+Everyone starts with an extra bonus **combat** feat, all prereqs must be met. Combat feats are geared towards combat and have the Combat keyword associated to it. There is a complete listing of [combat feats on d20pfsrd](http://www.d20pfsrd.com/feats/combat-feats). The goal of this extra combat feat is to add some extra beginning power to the party.
+
+#### House Rule: Feat Tax Removal
+As a tentative house rule, I am going to try something different than I have in prior campaigns I have ran. I am going to attempt to resolve an issue of feat tax by allowing a select few feats to be given as 'free options' as long as the prereqs are met. An example of this is Combat Expertise: it is a feat required to acquire more specialized feats and can be useful by itself, but not everyone wants or will remember to use Combat Expertise plus it fills a feat slot that could have otherwise been spent on something more meaningful/powerful. So the below feats will be changed to be available for free if the prereqs have been met. Format is "Name: (Prereqs) Description"
+
+- **[Weapon Finesse](http://www.d20pfsrd.com/feats/combat-feats/weapon-finesse-combat---final):** (No prereqs) Use DEX instead of STR on attack rolls with light weapons.
+- **[Combat Expertise](http://www.d20pfsrd.com/feats/combat-feats/combat-expertise-combat):** (INT 13) Trade attack bonus for AC bonus. Needed for Improved combat maneuver.
+- **[Power Attack](http://www.d20pfsrd.com/feats/combat-feats/power-attack-combat---final):** (STR 13, BAB +1) Trade melee attack bonus for damage.
+- **[Deadly Aim](http://www.d20pfsrd.com/feats/combat-feats/deadly-aim-combat):**  (DEX 13, BAB +1) Trade ranged attack bonus for damage.
+- **[Point Blank Shot](http://www.d20pfsrd.com/feats/combat-feats/point-blank-shot-combat---final):** (No prereqs) +1 attack and damage with ranged weapons on targets within 30 feet.
+- **[Weapon Focus](http://www.d20pfsrd.com/feats/combat-feats/weapon-focus-combat---final):** (Proficiency with weapon, BAB +1) +1 bonus on attack rolls with weapon group. This applies [Martial Mastery](http://www.d20pfsrd.com/feats/racial-feats/martial-mastery-combat-human) for free, meaning that Weapon Focus is really Weapon Group Focus and applies the bonus to weapons in that group instead of just a single weapon. What group a weapon falls into is defined by the weapon groups for fighters using [this master list](http://www.d20pfsrd.com/classes/core-classes/fighter#TOC-Weapon-Training-Ex-). Example: The Bows group covers all types of bows (long and short, composite and not) while Heavy Blades covers a falcata, a falchion, a greatsword, and a bastard sword (plus the whole rest of the list) all at once.
 
 ## 10) Starting HP
 Maximum HP at first level. So a wizard with a d6 gets 6 + CON modifier.
