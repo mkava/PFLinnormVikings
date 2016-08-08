@@ -18,7 +18,9 @@
 ## 1) Choose A Concept
 Determine what the concept of the character is. Who are you and what do you want to do?
 
-The goal at the end of character creation is to have a 25 word description of the character that is the essence of who they are. Example: I am a Face rogue who bluffs his way into others good graces before betraying them when they least expect it ...and I have a serious sweet tooth.
+The goal at the end of character creation is to have a 25 word description of the character that is the essence of who they are. Less is more with a character background. Examples:
+- (28) I am a charismatic vagabond who bluffs his way into others good graces before betraying them when they least expect it ...and I have a serious sweet tooth.
+- (32) I am a shipwright and tinkerer who left home in search of a place in the world and as much as gold as I can carry. I became a dastardly pirate, yar'har!
 
 ## 2) Character Sheets
 Try out [Character Sheets by Dyslexic Studeos](http://charactersheets.minotaur.cc/). It does print with multiple pages, but has additional detail and per-class page that spells out when abilities are available. Spellcasters will find this especially useful.
